@@ -1,6 +1,6 @@
 body {
-    background-color: #A9D18E; /* verde chiaro pastello */
-    color: #2F4F2F; /* verde scuro morbido */
+    background-color: #A9D18E; 
+    color: #2F4F2F; 
     font-family: Arial, sans-serif;
 }
 .container {
@@ -12,17 +12,17 @@ body {
     margin: auto;
 }
 .btn-custom {
-    background-color: #7BC043; /* verde brillante */
+    background-color: #7BC043; 
     color: white;
     border: 1px solid #558B2F;
     transition: background-color 0.3s, color 0.3s;
 }
 .btn-custom:hover {
-    background-color: #558B2F; /* verde scuro morbido */
+    background-color: #558B2F; 
     color: white;
 }
 .btn-secondary-custom {
-    background-color: #D9E6D2; /* verde pastello chiarissimo */
+    background-color: #D9E6D2; 
     color: #2F4F2F;
     border: 1px solid #558B2F;
     transition: background-color 0.3s, color 0.3s;
@@ -32,20 +32,20 @@ body {
     color: white;
 }
 .ticket-container {
-    background-color: #E6F2D9; /* verde pastello molto chiaro */
+    background-color: #E6F2D9; 
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
 }
 .ticket-header {
-    background-color: #6FA22F; /* verde medio */
+    background-color: #6FA22F; 
     color: white;
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 15px;
 }
 .ticket-details {
-    background-color: #CDE3B6; /* verde chiaro */
+    background-color: #CDE3B6; 
     padding: 10px;
     border-radius: 5px;
 }
